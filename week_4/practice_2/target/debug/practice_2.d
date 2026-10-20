@@ -1,0 +1,1 @@
+C:\Users\Haleemah\Documents\100\ 1st\ semester\COS\ 101\H.GAFAR-COS101\week_4\practice_2\target\debug\practice_2.exe: C:\Users\Haleemah\Documents\100\ 1st\ semester\COS\ 101\H.GAFAR-COS101\week_4\practice_2\src\main.rs
